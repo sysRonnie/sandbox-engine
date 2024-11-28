@@ -1,0 +1,22 @@
+{
+  "name": "webgl-sandbox-computing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "esbuild": "^0.24.0",
+    "three": "^0.170.0",
+    "three-stdlib": "^2.34.0"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^25.0.0",
+    "tween.js": "^16.6.0"
+  }
+}
